@@ -1,13 +1,11 @@
 # adventcalander_discordbot
 
-
+***
 **Dependencies**
 
 Install Node.js
 
 then
-
-***
 
 CRON - For Scheduling
 ```
